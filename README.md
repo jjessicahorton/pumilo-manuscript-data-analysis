@@ -1,4 +1,5 @@
 # The RNA-binding Protein Pumilio Limits Polymodal Nociception in _Drosophila_ larvae
+[Link](https://pubmed.ncbi.nlm.nih.gov/42428523/)
 
 [Sara Palega](https://www.linkedin.com/search/results/all/?keywords=sara%20palega&origin=GLOBAL_SEARCH_HEADER) $^{1,3}$, Hannah Davenport $^{1}$, [Rebeccah Stewart](https://www.linkedin.com/in/rebeccah-stewart-091818138/) $^{1,4}$, [Jess Horton](https://www.linkedin.com/in/jjessicahorton/) $^{2}$, [Andrew Bellemer](https://www.linkedin.com/in/andrew-bellemer-38310466/) ${^1}$
 
@@ -15,4 +16,4 @@ $^{4}$ Current Affiliation: [Department of Pharmacology and Cancer Biology](http
 
 [Andrew Bellemer](https://www.linkedin.com/in/andrew-bellemer-38310466/) | [Appalachian State University](https://biology.appstate.edu/directory/dr-andrew-bellemer)
 
-### [Manuscript Link](https://pubmed.ncbi.nlm.nih.gov/42428523/)
+
