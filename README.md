@@ -14,3 +14,5 @@ $^{4}$ Current Affiliation: [Department of Pharmacology and Cancer Biology](http
 ## Corresponding Author:
 
 [Andrew Bellemer](https://www.linkedin.com/in/andrew-bellemer-38310466/) | [Appalachian State University](https://biology.appstate.edu/directory/dr-andrew-bellemer)
+
+### [Manuscript Link](https://pubmed.ncbi.nlm.nih.gov/42428523/)
