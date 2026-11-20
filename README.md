@@ -1,6 +1,6 @@
 # The RNA-binding Protein Pumilio Limits Polymodal Nociception in _Drosophila_ larve
 
-Cite: Palega S, Davenport H, Stewart RK, Horton J, Bellemer A. The RNA-binding protein Pumilio limits polymodal nociception in Drosophila larvae. PeerJ. 2026 Jul 6;14:e21481. doi: [10.7717/peerj.21481](https://pubmed.ncbi.nlm.nih.gov/42428523/) 
+**Citation:** Palega S, Davenport H, Stewart RK, Horton J, Bellemer A. The RNA-binding protein Pumilio limits polymodal nociception in Drosophila larvae. PeerJ. 2026 Jul 6;14:e21481. doi: [10.7717/peerj.21481](https://pubmed.ncbi.nlm.nih.gov/42428523/) 
 
 [Sara Palega](https://www.linkedin.com/search/results/all/?keywords=sara%20palega&origin=GLOBAL_SEARCH_HEADER) $^{1,3}$, Hannah Davenport $^{1}$, [Rebeccah Stewart](https://www.linkedin.com/in/rebeccah-stewart-091818138/) $^{1,4}$, [Jess Horton](https://www.linkedin.com/in/jjessicahorton/) $^{2}$, [Andrew Bellemer](https://www.linkedin.com/in/andrew-bellemer-38310466/) ${^1}$
 
